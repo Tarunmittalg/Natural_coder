@@ -1,6 +1,6 @@
 # Natural_coder
 
-
+Project-Stock Market Prediction using Python and machine Learning Algorithms 
 MAIN PROJECT FILE:-  analysis.ipynb
 
 Problem Statement:-  To improve the efficiency of Stock Market Forecasting using Machine Learning.
